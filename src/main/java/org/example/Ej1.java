@@ -32,6 +32,6 @@ public class Ej1 {
 
     public static void main(String[] args) {
         int number = askInt();
-        log.info("el número introducido es " + number);
+        log.info("El número introducido es " + number);
     }
 }

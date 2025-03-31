@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ej2;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
